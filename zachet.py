@@ -1,4 +1,6 @@
 # Мостакова А. ЗБ-ПИ21-2
+# Тема 13 Функции map, filter, reduce, any, all.
+
 from functools import reduce
 def test_problem(func, test_data):
   """test helper"""
